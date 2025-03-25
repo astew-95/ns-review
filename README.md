@@ -6,6 +6,39 @@ Neutron Star cooling for the determination of a Neutron Star equation of state (
 prior and recent advancements.
 
 
+
+# Cooling theory
+
+The two main factors contributing to the cooling theory
+are the neutrino emissivity Q, heat capacity Cv, and ther-
+mal conductivity of neutron star matter. General relativis-
+tic corrections for standard heat equations in the interior
+of a star can be solved to determine effective temperature
+and effective surface temperature (Ts) for the neutron star,
+as derived in [3]. The NS thermal luminosity is:
+
+$$ L= 4πσR^2T^4 s (t)$$
+
+where L refers to a locally-flat reference frame on the
+NS surface.
+The apparent luminosity to a distant observer and ap-
+parent effective temperature to the distant observer can be
+described with:
+
+$$ L^\infty= L(1−r_g/R)$$
+
+
+$$T^\infty_s = T_s \sqrt{1−r_g/R} $$
+
+where rg = 2GM/c2 is the Schwarzschild radius [4].
+The equation of state and composition of the neutron
+star core will affect neutrino emission mechanisms. Ad-
+ditionally, superfluity and the presence of strong magnetic
+fields can affect neutrons star temperature. These factors
+affect the thermal conductivity and the relation between
+the internal surface temperature of the star.
+
+
 # References
 
 [1] C. Ji, et al., GW170817: Cooling Modes of Neutron
