@@ -2,7 +2,7 @@
 
  I relay the most recent research on the subject of Neutron Star Cooling,
 outlining details of recent advances towards determining a NS radius as well as the significance of understanding
-Neutron Star cooling for the determination of a Neutron Star equation of state (EOS). We discuss the significance of
+Neutron Star cooling for the determination of a Neutron Star equation of state (EOS). I discuss the significance of
 prior and recent advancements.
 
 
