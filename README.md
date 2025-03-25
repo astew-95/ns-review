@@ -7,7 +7,7 @@ prior and recent advancements.
 
 
 
-# Cooling theory
+# Cooling theory (paper sample)
 
 The two main factors contributing to the cooling theory
 are the neutrino emissivity Q, heat capacity Cv, and thermal conductivity of neutron star matter. General relativistic corrections for standard heat equations in the interior
