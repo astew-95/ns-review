@@ -10,9 +10,9 @@ prior and recent advancements.
 # Cooling theory (paper sample)
 
 The two main factors contributing to the cooling theory
-are the neutrino emissivity Q, heat capacity Cv, and thermal conductivity of neutron star matter. General relativistic corrections for standard heat equations in the interior
+are the neutrino emissivity $Q$, heat capacity $C_v$, and thermal conductivity of neutron star matter. General relativistic corrections for standard heat equations in the interior
 of a star can be solved to determine effective temperature
-and effective surface temperature (Ts) for the neutron star,
+and effective surface temperature ($T_s$) for the neutron star,
 as derived in [3]. The NS thermal luminosity is:
 
 $$ L= 4πσR^2T^4 s (t)$$
